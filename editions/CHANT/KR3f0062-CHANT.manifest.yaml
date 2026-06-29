@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3f0062/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR3f0062/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 穹天論一卷
+  identifiers:
+    krp: KR3f0062
+  tags:
+    kr-categories: KR3f
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3f0062.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR3f0062_001-CHANT.yaml, hash: 'sha256:3b9217fab1f6800c58ce6f5c235fbc6e0a707b93488f8336db339c861100365c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3f0062_001-CHANT.markers.yaml, hash: 'sha256:b3d94849b2567a1b3c748d8d1aebf60a6a6bdd6771b08612147e9670863a5971'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3f0062_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 283
+  label: 穹天論
+  type: section
+  level: 1
+hash: sha256:22ec79dc45cf14864c0799922c790718aa0cabcb7361308a6877bc2b890b8e69
