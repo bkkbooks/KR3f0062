@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3f0062_001.yaml, hash: 'sha256:624cd64b4a38d179af8cdc23f3cef4264920911352966f260e4670b6e84045c9'}
+  - {seq: 1, filename: KR3f0062_001.yaml, hash: 'sha256:3b9217fab1f6800c58ce6f5c235fbc6e0a707b93488f8336db339c861100365c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3f0062_001.markers.yaml, hash: 'sha256:83500d435f75baeeea28f25a2f586ecdf143d6f879176caf6a3b8d7b8ca3f7f0'}
+  - {seq: 1, role: markers, filename: assets/KR3f0062_001.markers.yaml, hash: 'sha256:26efc03a1d9ae06cd56331d7f633cd5e3351760495dcd842e705a0c077f6fd20'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 穹天論
   type: section
   level: 1
-hash: sha256:9297474eea839b3bd71f1ff4b565a6293d3e51b15101f105ea274a064e3bd83c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:df0203f3ed952159faa2153541ac0018fb9069437f779aba2020c91d3a64c7be
