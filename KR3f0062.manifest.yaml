@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3f0062/v1
 canonical_location: https://kanripo.org/bkk/KR3f0062/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 穹天論一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3f0062_001.yaml, hash: 'sha256:3b9217fab1f6800c58ce6f5c235fbc6e0a707b93488f8336db339c861100365c'}
+  - {seq: 1, filename: KR3f0062_001.yaml, hash: 'sha256:9ddb114aa352b2d79bc572eae14f9d3dd77c70aab72f5ddc48fb1f0dfad254ba'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3f0062_001.markers.yaml, hash: 'sha256:26efc03a1d9ae06cd56331d7f633cd5e3351760495dcd842e705a0c077f6fd20'}
+  - {seq: 1, role: markers, filename: assets/KR3f0062_001.markers.yaml, hash: 'sha256:457457ba448ce7c4da80bc966161342bb1bd7227ab80b5c1e7724230d398b0e2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 穹天論
   type: section
   level: 1
-hash: sha256:df0203f3ed952159faa2153541ac0018fb9069437f779aba2020c91d3a64c7be
+hash: sha256:27f72b87b8859feb120b9851ea3d82676ff4360b8a8def61c0cccf19ad713acf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
